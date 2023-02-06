@@ -16,6 +16,9 @@ class TestStack(TestCase):
         """Test pushing an item into the stack"""
         self.stack.push(42)
         self.assertEqual(42,self.stack.peek())
+        self.assertEqual(42,self.stack.peek())
+        self.stack.push(44)
+        self.assertEqual(44,self.stack.peek())
 
     def test_pop(self):
         """Test popping an item of off the stack"""

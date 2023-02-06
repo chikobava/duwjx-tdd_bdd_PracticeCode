@@ -9,3 +9,6 @@ pinocchio
 coverage
 factory-boy
 pylint
+
+# Dependencies for coding
+autopep8
