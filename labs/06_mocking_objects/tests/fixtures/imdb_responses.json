@@ -2,7 +2,15 @@
     "GOOD_SEARCH": {
         "searchType": "Title",
         "expression": "Bambi",
-        "results": [{"id": "tt1375666", "resultType": "Movie", "image": null, "title": "Babmi", "description": "Disney movie about a baby dear"}],
+        "results": [
+            {
+                "id": "tt1375666",
+                "resultType": "Movie",
+                "image": null,
+                "title": "Babmi",
+                "description": "Disney movie about a baby dear"
+            }
+        ],
         "errorMessage": null
     },
     "INVALID_API": {
@@ -26,7 +34,19 @@
         "fullTitle": "Bambi",
         "type": "Movie",
         "year": "1942",
-        "items": [{"username": "mickey","userUrl": null,"reviewLink": null,"warningSpoilers": true,"date": "2008-04-01","rate": "5","helpful": null,"title": "Tear jerker","content": "This movie will make you cry"}],
+        "items": [
+            {
+                "username": "mickey",
+                "userUrl": null,
+                "reviewLink": null,
+                "warningSpoilers": true,
+                "date": "2008-04-01",
+                "rate": "5",
+                "helpful": null,
+                "title": "Tear jerker",
+                "content": "This movie will make you cry"
+            }
+        ],
         "errorMessage": null
     },
     "GOOD_RATING": {
